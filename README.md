@@ -1,85 +1,87 @@
-<!-- Header Banner -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=hidra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Architect&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=hidra&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20Architect&descAlignY=60&descSize=18" width="100%" />
 </div>
 
-<!-- Typing Subtitle & Views -->
+<!-- TYPING SUBTITLE -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Web+Architecture+%26+Scalable+SaaS+Platforms;High-Concurrency+Backend+Systems;Engineering+High-Traffic+Digital+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+SaaS+platforms+%26+web+architecture.;Engineering+high-traffic+backend+systems.;Founder+%40+clickr+%7C+Software+that+scales." alt="Typing SVG" />
   </a>
-  <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hidra404.hidra404&left_color=0d1117&right_color=21262d&left_text=views" alt="profile views" />
-  &nbsp;
+</div>
+
+<!-- SOCIALS & PROFILE VIEWS -->
+<div align="center">
   <a href="mailto:ask@hidra.me">
-    <img src="https://img.shields.io/badge/ask%40hidra.me-0d1117?style=flat-square&logo=gmail&logoColor=8b949e" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ask%40hidra.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://linkedin.com/in/TVOJ-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@TVOJ-YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com/TVOJ-TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hidra404.hidra404&left_color=161b22&right_color=1f6feb" alt="Profile Views" />
 </div>
 
-<br />
+<hr/>
 
-### `01` // About & Selected Work
+### ⚡ About Me
 
-Full-Stack Developer specializing in web architecture, scalable SaaS platforms, and backend systems. Experienced in leading technical operations and engineering high-traffic digital products.
+Full-Stack Developer specializing in **web architecture**, **scalable SaaS platforms**, and **backend systems**. Experienced in leading technical operations and engineering high-traffic digital products from zero to scale.
 
-| Project | Role | Overview | Status |
+> *"Building software that scales. Focused on high-level collaborations, impactful product engineering, and pushing technical boundaries."*
+
+<br/>
+
+### 🚀 Featured Projects & Experience
+
+| Project | Role | Description | Status |
 | :--- | :--- | :--- | :---: |
-| **clickr** | Founder & Developer | Modern digital ordering and management infrastructure built for restaurants. | `ACTIVE` |
-| **arcon** | Lead Developer | High-concurrency Discord utility and automation ecosystem serving **15M+ users**. | `ARCHIVED` |
-| **swims.cc** | Developer & Exec. Director | Creator biolink platform scaling to **250K+ profiles** with native Twitch & YouTube integrations. | `ARCHIVED` |
-| **Private Contracts** | Lead Developer & Architect | Custom web applications, full-stack platforms, and scalable backend infrastructures for clients. | `ONGOING` |
+| **clickr** | `Founder & Developer` | Modern digital ordering and management infrastructure built for restaurants. | ![Active](https://img.shields.io/badge/Active-2ea44f?style=flat-square) |
+| **Private Contracts** | `Lead Dev & Architect` | Custom web applications, full-stack platforms, and scalable backend infrastructures for clients. | ![Ongoing](https://img.shields.io/badge/Ongoing-1f6feb?style=flat-square) |
+| **arcon** | `Lead Developer` | High-concurrency Discord utility and automation ecosystem serving **15M+ users**. | ![Archived](https://img.shields.io/badge/Archived-6e7681?style=flat-square) |
+| **swims.cc** | `Dev & Exec. Director` | Creator biolink platform scaling to **250K+ profiles** with native Twitch & YouTube API integrations. | ![Archived](https://img.shields.io/badge/Archived-6e7681?style=flat-square) |
 
-> **Objective:** Building software that scales. Focused on high-level collaborations, impactful product engineering, and pushing technical boundaries.
+<hr/>
 
-<br />
-
-### `02` // Languages & Tooling
-
-<table>
-  <tr>
-    <td width="160"><strong>Languages</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="32" alt="C#" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="32" alt=".NET" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="32" alt="Go" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32" alt="Python" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="32" alt="PHP" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32" alt="HTML5" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32" alt="React" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="32" alt="Angular" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Environment</strong></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="32" alt="Docker" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="32" alt="Bash" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="32" alt="PowerShell" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VS Code" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="32" alt="Visual Studio" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="32" alt="Eclipse" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-### `03` // Activity & Metrics
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hidra404&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="195" alt="GitHub Streak" />
+
+**Backend & Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,nodejs,php&theme=dark" alt="Backend Stack" />
+
+<br/><br/>
+
+**Frontend & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,react,angular,html,css,bootstrap&theme=dark" alt="Frontend Stack" />
+
+<br/><br/>
+
+**DevOps, Scripting & IDEs**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,bash,powershell,vscode,visualstudio,eclipse&theme=dark" alt="DevOps & Tools" />
+
 </div>
 
-<!-- Footer Banner -->
+<hr/>
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=100&section=footer" width="100%" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=hidra404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="185" src="https://streak-stats.demolab.com?user=hidra404&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" width="100%" />
 </div>
