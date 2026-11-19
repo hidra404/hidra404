@@ -11,9 +11,16 @@ Full-Stack Developer specializing in web architecture, scalable SaaS platforms, 
 ### Objective
 Building software that scales. Focused on high-level collaborations, impactful product engineering, and pushing technical boundaries.
 
-### Technologies
+### Stack
 
-[![Technologies](https://skillicons.dev/icons?i=cs,dotnet,go,py,js,php,html,css,nodejs,react,angular,bootstrap,docker,bash,powershell,vscode,visualstudio,eclipse&perline=9)](https://skillicons.dev)
+**Languages**  
+[![Languages](https://skillicons.dev/icons?i=cs,dotnet,go,py,js,php,html,css)](https://skillicons.dev)
+
+**Frameworks**  
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,react,angular,bootstrap)](https://skillicons.dev)
+
+**Tooling**  
+[![Tooling](https://skillicons.dev/icons?i=docker,bash,powershell,vscode,visualstudio,eclipse)](https://skillicons.dev)
 
 ---
 
