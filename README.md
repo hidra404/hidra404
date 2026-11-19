@@ -10,7 +10,7 @@
 
 Full-Stack Developer specializing in **web architecture**, **scalable SaaS platforms**, and **high-concurrency backend systems**. Experienced in leading technical operations and engineering high-traffic digital products.
 
-<sub>Currently building <b>clickr</b> and taking on select private architecture contracts.</sub>
+Currently building **clickr** and taking on select private architecture contracts.
 
 <p>
   <a href="mailto:ask@hidra.me">
@@ -32,10 +32,10 @@ Full-Stack Developer specializing in **web architecture**, **scalable SaaS platf
 
 | Project | Role | Overview | Status |
 | :--- | :--- | :--- | :---: |
-| **clickr** | <sub>Founder & Developer</sub> | Modern digital ordering and management infrastructure built for restaurants. | ![Active](https://img.shields.io/badge/ACTIVE-1f6feb?style=flat-square) |
-| **Private Contracts** | <sub>Lead Architect</sub> | Custom web applications, full-stack platforms, and scalable backend infrastructures. | ![Ongoing](https://img.shields.io/badge/ONGOING-238636?style=flat-square) |
-| **arcon** | <sub>Lead Developer</sub> | High-concurrency Discord utility and automation ecosystem serving **15M+ users**. | ![Archived](https://img.shields.io/badge/ARCHIVED-21262d?style=flat-square) |
-| **swims.cc** | <sub>Dev & Exec. Director</sub> | Creator biolink platform scaling to **250K+ profiles** with Twitch & YouTube APIs. | ![Archived](https://img.shields.io/badge/ARCHIVED-21262d?style=flat-square) |
+| **clickr** | *Founder & Developer* | Modern digital ordering and management infrastructure built for restaurants. | ![Active](https://img.shields.io/badge/ACTIVE-1f6feb?style=flat-square) |
+| **Private Contracts** | *Lead Architect* | Custom web applications, full-stack platforms, and scalable backend infrastructures. | ![Ongoing](https://img.shields.io/badge/ONGOING-238636?style=flat-square) |
+| **arcon** | *Lead Developer* | High-concurrency Discord utility and automation ecosystem serving **15M+ users**. | ![Archived](https://img.shields.io/badge/ARCHIVED-21262d?style=flat-square) |
+| **swims.cc** | *Dev & Exec. Director* | Creator biolink platform scaling to **250K+ profiles** with Twitch & YouTube APIs. | ![Archived](https://img.shields.io/badge/ARCHIVED-21262d?style=flat-square) |
 
 ---
 
@@ -68,13 +68,13 @@ Full-Stack Developer specializing in **web architecture**, **scalable SaaS platf
 <br/>
 
 <details>
-  <summary><sub><b>WORK INQUIRIES & CONSULTING</b></sub></summary>
+  <summary><b>Work Inquiries & Consulting</b></summary>
   <br/>
-  <sub>Available for select high-level collaborations, SaaS architecture, and custom backend engineering. Reach out directly at <b>ask@hidra.me</b> with project scope and timeline.</sub>
+  Available for select high-level collaborations, SaaS architecture, and custom backend engineering. Reach out directly at <b>ask@hidra.me</b> with project scope and timeline.
 </details>
 
 <br/>
 
 <p align="center">
-  <sub>hidra404 · ask@hidra.me</sub>
+  hidra404 · ask@hidra.me
 </p>
