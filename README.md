@@ -1,30 +1,44 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="120" />
-  <h2>hidra</h2>
-  <p>Full-Stack Developer & Systems Architect</p>
-  <p>
-    <a href="mailto:ask@hidra.me">ask@hidra.me</a> · 
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hidra404.hidra404&left_color=0d1117&right_color=21262d" valign="middle" />
-  </p>
-</div>
+<!-- HERO SECTION -->
+<table border="0" width="100%">
+  <tr>
+    <td width="68%" valign="middle">
+      <h1>hidra</h1>
+      <p><b>Full-Stack Developer & Systems Architect</b></p>
+      <p>
+        Specializing in web architecture, scalable SaaS platforms, and high-concurrency backend systems. Experienced in leading technical operations and engineering high-traffic digital products.
+      </p>
+      <p>
+        <a href="mailto:ask@hidra.me">
+          <img src="https://img.shields.io/badge/CONTACT-ask%40hidra.me-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117" height="28" />
+        </a>
+        &nbsp;
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=hidra404.hidra404&left_text=VIEWS&left_color=0d1117&right_color=161b22" height="28" />
+      </p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-Building web architecture, scalable SaaS platforms, and high-traffic backend systems.
+<!-- SYSTEM / BIO CODE BLOCK -->
+```go
+package main
 
-#### Work
-* **clickr** — Founder & Developer. Digital ordering and management infrastructure for restaurants.
-* **Private Contracts** — Lead developer and systems architect delivering custom web applications and scalable backend infrastructures.
-* **arcon** — Lead Developer. High-concurrency Discord utility and automation ecosystem serving 15M+ users `[archived]`
-* **swims.cc** — Developer & Executive Director. Creator biolink platform scaling to 250K+ profiles with Twitch & YouTube integrations `[archived]`
+type Developer struct {
+    Alias      string
+    Role       []string
+    Building   string
+    Focus      []string
+    Contact    string
+}
 
-#### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,nodejs,php,js,react,angular,docker,bash,powershell&theme=dark" height="32" />
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hidra404&locale=en&mode=daily&theme=dark&hide_border=true&background=0D1117" height="175" />
-</div>
+var hidra = Developer{
+    Alias:    "hidra404",
+    Role:     []string{"Full-Stack Developer", "Systems Architect", "Founder"},
+    Building: "clickr — Digital ordering & management infrastructure for restaurants",
+    Focus:    []string{"High-Concurrency Backends", "Scalable SaaS", "Web Architecture"},
+    Contact:  "ask@hidra.me",
+}
