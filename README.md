@@ -20,7 +20,7 @@ Building software that scales. Focused on high-level collaborations, impactful p
 ![js](https://github.com/user-attachments/assets/a92a5cd9-c710-45a1-9996-d62c91f29fab)
 ![php](https://github.com/user-attachments/assets/a4594354-ced5-4421-893e-43a4369576ea)
 ![html](https://github.com/user-attachments/assets/21ad7549-fea7-49cd-bdbf-fcfd700f0274)
-![css3](https://github.com/user-attachments/assets/081e9bc2-7e97-448b-ad6a-a9401bf164ec)
+![css3](https://github.com/user-attachments/assets/081e9bc2-7e97-488b-ad6a-a9401bf164ec)
 
 **Frameworks**  
 ![nodejs_larger](https://github.com/user-attachments/assets/dbb1bed3-01cb-4e1c-9ad4-bf19011b68e7)
@@ -31,10 +31,10 @@ Building software that scales. Focused on high-level collaborations, impactful p
 **Tooling**  
 ![docker](https://github.com/user-attachments/assets/151007ed-dcb7-4906-a6c5-998d3b270f0b)
 ![bash](https://github.com/user-attachments/assets/e6c9ecf3-ffd5-4f02-9ae6-1270de7f3882)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="28" height="28" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visualstudio_code" width="28" height="28" />
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" height="28" />
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="28" />
 ![visualstudio](https://github.com/user-attachments/assets/59dab606-bf91-46b6-a4a6-ef38bfbdb3eb)
-![eclipse](https://github.com/user-attachments/assets/22d02f54-e8c9-4a8c-94e6-d3aa93294c31)
+<img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse" height="28" />
 
 ---
 
