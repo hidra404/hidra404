@@ -11,13 +11,9 @@ Full-Stack Developer specializing in web architecture, scalable SaaS platforms, 
 ### Objective
 Building software that scales. Focused on high-level collaborations, impactful product engineering, and pushing technical boundaries.
 
-### Stack
+### Technologies
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C#` · `.NET` · `Go` · `Python` · `JavaScript` · `PHP` · `HTML5` · `CSS3` |
-| **Frameworks** | `Node.js` · `React` · `Angular` · `Bootstrap` |
-| **Tooling** | `Docker` · `Bash` · `PowerShell` · `VS Code` · `Visual Studio` · `Eclipse` |
+[![Technologies](https://skillicons.dev/icons?i=cs,dotnet,go,py,js,php,html,css,nodejs,react,angular,bootstrap,docker,bash,powershell,vscode,visualstudio,eclipse&perline=9)](https://skillicons.dev)
 
 ---
 
