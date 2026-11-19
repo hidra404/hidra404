@@ -1,11 +1,12 @@
 # hidra
 
-Full-Stack Developer specializing in web architecture, backend systems, and high-concurrency Discord automation. Experienced in leading technical operations and managing infrastructure for high-traffic communities.
+Full-Stack Developer specializing in web architecture, scalable SaaS platforms, and backend systems. Experienced in leading technical operations and engineering high-traffic digital products.
 
 ### Projects
-* **acerbot.xyz** — Founder & Developer. All-in-one Discord utility and automation ecosystem.
-* **swims.cc** — Founder & Developer. Creator biolink platform featuring native Twitch and YouTube API integrations `[ARCHIVED]`.
-* **Private Contracts** — Lead developer and systems architect for multiple large-scale servers and custom bot infrastructures.
+- **clickr** — Founder & Developer. Modern digital ordering and management infrastructure built for restaurants.
+- **arcon** — Lead Developer. High-concurrency Discord utility and automation ecosystem serving 15M+ users `[ARCHIVED]`.
+- **swims.cc** — Developer & Executive Director. Creator biolink platform scaling to 250K+ profiles with native Twitch and YouTube API integrations `[ARCHIVED]`.
+- **Private Contracts** — Lead developer and systems architect delivering custom web applications, full-stack platforms, and scalable backend infrastructures for clients.
 
 ### Objective
 Building software that scales. Focused on high-level collaborations, impactful product engineering, and pushing technical boundaries.
@@ -30,13 +31,13 @@ Building software that scales. Focused on high-level collaborations, impactful p
 **Tooling**  
 ![docker](https://github.com/user-attachments/assets/151007ed-dcb7-4906-a6c5-998d3b270f0b)
 ![bash](https://github.com/user-attachments/assets/e6c9ecf3-ffd5-4f02-9ae6-1270de7f3882)
-![powershell](https://github.com/user-attachments/assets/3c9ecf58-41c7-41c7-9e54-959eb96912fd)
-![visualstudio_code](https://github.com/user-attachments/assets/2498ad66-2656-4906-a864-f6755fedc45a)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="28" height="28" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visualstudio_code" width="28" height="28" />
 ![visualstudio](https://github.com/user-attachments/assets/59dab606-bf91-46b6-a4a6-ef38bfbdb3eb)
 ![eclipse](https://github.com/user-attachments/assets/22d02f54-e8c9-4a8c-94e6-d3aa93294c31)
 
 ---
 
-**Contact:** `_@hidra.com`
+**Contact:** `ask@hidra.me`
 
 ![terminal](https://github.com/user-attachments/assets/77dcc5d9-ab8f-444b-8026-0fad9f0e7085)
